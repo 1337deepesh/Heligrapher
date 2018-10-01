@@ -76,7 +76,7 @@ libraries (you're welcome).
 Contact
 --------------
 If you have any queries/suggestions about the program itself, contact me:
-Deepesh Nagarajan: 1337deepesh@gmail.com
+- Deepesh Nagarajan: 1337deepesh@gmail.com
 
 For any queries related to the publication, contact the corresponding authors:
 - Prof. Nagasuma Chandra: nchandra@iisc.ac.in
