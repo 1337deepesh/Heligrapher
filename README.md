@@ -66,7 +66,7 @@ sudo chmod 755 dssp-2.0.4-linux-amd64
 
 The **-P** argument needs **pymol** installed. Either install pymol or use **-P N**.
 To install pymol:
-sudo apt-get install pymol
+**sudo apt-get install pymol**
 
 I have kept dependencies to a bare minimum. I have written my own simulated 
 annealing protocols, my own protein structural-manipulation algos, and my own 
