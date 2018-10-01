@@ -1,0 +1,54 @@
+graph overlaps per residue:
+
+I 3
+F 3
+K 5
+K 7
+L 5
+V 4
+K 6
+K 11
+K 3
+L 7
+E 4
+K 11
+K 2
+V 3
+G 7
+K 11
+A 6
+A 4
+R 2
+K 1
+
+all subgraphs are listed below in this format:
+database_node_number/designed_node_number/residue_type
+
+4mgp.pdb 2/1/I 6/5/L 10/9/K 14/13/K 18/17/A
+2jx6.pdb 19/12/K 22/15/G 23/16/K 24/17/A 25/18/A
+1kv4.pdb 9/8/K 13/12/K 15/14/V 16/15/G 17/16/K 20/19/R
+2igr.pdb 5/2/F 6/3/K 7/4/K 10/7/K 11/8/K
+2mmm.pdb 29/3/K 30/4/K 31/5/L 33/7/K 34/8/K
+2jr8.pdb 9/8/K 13/12/K 16/15/G 17/16/K 20/19/R
+1p5l.pdb 6/8/K 8/10/L 9/11/E 10/12/K 14/16/K
+1ot0.pdb 6/8/K 8/10/L 9/11/E 10/12/K 14/16/K
+2la2.pdb 4/1/I 5/2/F 6/3/K 7/4/K 10/7/K
+1p5k.pdb 6/8/K 8/10/L 9/11/E 10/12/K 14/16/K
+1zrx.pdb 5/2/F 7/4/K 8/5/L 9/6/V 10/7/K 11/8/K
+1z64.pdb 14/12/K 16/14/V 17/15/G 18/16/K 19/17/A 20/18/A
+2g9l.pdb 15/3/K 17/5/L 18/6/V 19/7/K 26/10/L
+1p0l.pdb 6/8/K 8/10/L 9/11/E 10/12/K 14/16/K
+2rq2.pdb 13/6/V 17/10/L 21/14/V 22/15/G 24/17/A 25/18/A
+2rlg.pdb 4/4/K 7/7/K 8/8/K 9/9/K 10/10/L 12/12/K
+1vm4.pdb 5/1/I 7/3/K 8/4/K 9/5/L 10/6/V
+2ket.pdb 4/4/K 8/8/K 9/9/K 12/12/K 16/16/K
+1dum.pdb 10/12/K 11/13/K 13/15/G 14/16/K 15/17/A
+2mhw.pdb 10/15/G 11/16/K 12/17/A 13/18/A 15/20/K
+
+20 database peptide-graphs were used to create BEST_helix:
+
+4mgp.pdb 2jx6.pdb 1kv4.pdb 2igr.pdb 
+2mmm.pdb 2jr8.pdb 1p5l.pdb 1ot0.pdb 
+2la2.pdb 1p5k.pdb 1zrx.pdb 1z64.pdb 
+2g9l.pdb 1p0l.pdb 2rq2.pdb 2rlg.pdb 
+1vm4.pdb 2ket.pdb 1dum.pdb 2mhw.pdb 

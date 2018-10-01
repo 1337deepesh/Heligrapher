@@ -1,0 +1,50 @@
+show cartoon
+show sticks
+hide (h.)
+set_colour custom_colour_1 = [0.727273, 0.272727, 0]
+color custom_colour_1, resi 1
+set_colour custom_colour_2 = [0.727273, 0.272727, 0]
+color custom_colour_2, resi 2
+set_colour custom_colour_3 = [0.545455, 0.454545, 0]
+color custom_colour_3, resi 3
+set_colour custom_colour_4 = [0.363636, 0.636364, 0]
+color custom_colour_4, resi 4
+set_colour custom_colour_5 = [0.545455, 0.454545, 0]
+color custom_colour_5, resi 5
+set_colour custom_colour_6 = [0.636364, 0.363636, 0]
+color custom_colour_6, resi 6
+set_colour custom_colour_7 = [0.454545, 0.545455, 0]
+color custom_colour_7, resi 7
+set_colour custom_colour_8 = [0.000000, 1.000000, 0]
+color custom_colour_8, resi 8
+set_colour custom_colour_9 = [0.727273, 0.272727, 0]
+color custom_colour_9, resi 9
+set_colour custom_colour_10 = [0.363636, 0.636364, 0]
+color custom_colour_10, resi 10
+set_colour custom_colour_11 = [0.636364, 0.363636, 0]
+color custom_colour_11, resi 11
+set_colour custom_colour_12 = [0.000000, 1.000000, 0]
+color custom_colour_12, resi 12
+set_colour custom_colour_13 = [0.818182, 0.181818, 0]
+color custom_colour_13, resi 13
+set_colour custom_colour_14 = [0.727273, 0.272727, 0]
+color custom_colour_14, resi 14
+set_colour custom_colour_15 = [0.363636, 0.636364, 0]
+color custom_colour_15, resi 15
+set_colour custom_colour_16 = [0.000000, 1.000000, 0]
+color custom_colour_16, resi 16
+set_colour custom_colour_17 = [0.454545, 0.545455, 0]
+color custom_colour_17, resi 17
+set_colour custom_colour_18 = [0.636364, 0.363636, 0]
+color custom_colour_18, resi 18
+set_colour custom_colour_19 = [0.818182, 0.181818, 0]
+color custom_colour_19, resi 19
+set_colour custom_colour_20 = [0.909091, 0.090909, 0]
+color custom_colour_20, resi 20
+color blue, (name N*)
+color hotpink, (name O*)
+set bg_rgb = [1,1,1]
+set ray_trace_mode = 1
+ray 800,800
+png aaa/common_graph.png, dpi=300
+quit
