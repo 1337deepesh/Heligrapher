@@ -71,7 +71,7 @@ To install pymol:
 I have kept dependencies to a bare minimum. I have written my own simulated 
 annealing protocols, my own protein structural-manipulation algos, and my own 
 graphing/plotting functions. All to spare you the trouble of searching for 
-libraries (you're welcome).
+libraries (you're welcome). 
 
 Contact
 --------------
