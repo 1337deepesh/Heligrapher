@@ -16,7 +16,7 @@ import shutil
 import getopt
 import subprocess
 
-import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont
 
 ########################################
 #       FUNCTION: GRAPH-PLOTTING       #
